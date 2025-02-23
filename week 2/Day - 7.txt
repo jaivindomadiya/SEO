@@ -1,0 +1,12 @@
+1) off page seo of Lugdaa
+
+2) learn about on page seo
+   seo yoast plugin
+   title 60 character
+   descriptions  160 characters
+   internal link every 300 a 1 
+   keyword highlight every 300 a 1 or 2
+   heading formate H1 .... h3
+   image alt tag
+   image name 
+   image size

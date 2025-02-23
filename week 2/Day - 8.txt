@@ -1,0 +1,10 @@
+keyword resarch of a site only 2 hours
+keyword 
+title 
+meta description
+keyword volume 
+
+make excel file of this 
+
+---
+start making tool in python
