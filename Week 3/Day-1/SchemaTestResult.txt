@@ -1,0 +1,138 @@
+1) Local business Schema 
+https://www.marleyfans.in/
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Marley Fans",
+  "image": "https://www.marleyfans.in/assets/frontend/images/logo-dark.png",
+  "@id": "",
+  "url": "https://www.marleyfans.in/",
+  "telephone": "74168 74507",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "9, near G R palace Function Hall, Gandhi Nagar Industrial Area, Sanjay Gandhi Nagar, Balanagar",
+    "addressLocality": "Hyderabad",
+    "postalCode": "500037",
+    "addressCountry": "IN"
+  }  
+}
+</script>
+
+---------------------------
+2) Generate Product Schema 
+https://www.marleyfans.in/hvls-fans
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "HVLS Fans",
+  "image": "https://www.marleyfans.in/assets/frontend/images/bg-loc-1-Recovered-Recovered-2048x1101.png",
+  "description": "Marley HVLS fans deliver superior airflow with cutting-edge efficiency, low operating costs, and minimal maintenance for large spaces.",
+  "brand": {
+    "@type": "Brand",
+    "name": "marleyfans"
+  },
+  "sku": "",
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.marleyfans.in/hvls-fans",
+    "priceCurrency": "INR",
+    "lowPrice": ""
+  }
+}
+</script>
+
+-------------------------------
+3) Create FAQ Schema 
+https://industrialfans.hunterfan.com/pages/hunter-faq
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is HVLS",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "HVLS stands for “high volume, low speed”, and refers to a mechanical fan greater than 7ft in diameter that distributes a large amount of air at a low rotational speed."
+    }
+  },{
+    "@type": "Question",
+    "name": "What mounting hardware do you recommend?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Every Hunter Industrial Fan comes equipped with a standard mounting kit, which allows for mounting to I-Beam and Unistrut structures. For any other mounting needs or questions, please call our in-house experts at 1-844-591-3267."
+    }
+  },{
+    "@type": "Question",
+    "name": "Which fan do you recommend? And why?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Our fan recommendations are based on multiple variables, including but not limited to industry, facility size, and electrical requirements. To help you determine which fan is right for your facility, please visit our HVLS Selection Tool. If you need further assistance, please do not hesitate to call our in-house experts at 1-844-591-3267."
+    }
+  },{
+    "@type": "Question",
+    "name": "What voltage options does Hunter Industrial offer? What voltage is needed for my space?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Hunter Industrial offers fans ranging from 110V Single Phase to 480V (Single or 3 Phase). Please call our in-house experts to discuss your specific needs at 1-844-591-3267. If you have any questions about your building’s specific electrical requirements, we advise you to contact a qualified electrician."
+    }
+  },{
+    "@type": "Question",
+    "name": "What is the difference between the Titan, ECO, and XP?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The Titan is Hunter Industrial’s Flagship HVLS fan and premium offering that boasts an exceptional blend of high performance and efficiency. ECO has a smaller max affected area than Titan but offers the best performance for the price. XP is ideal for lighter industrial and commercial needs while taking advantage of more readily available 120V 60Hz power. The Hunter HVLS lines range from 7 feet to 24 feet in diameter."
+    }
+  },{
+    "@type": "Question",
+    "name": "What size fan do you recommend based on my dimensions/ceiling height?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Every Hunter Industrial Fan was designed with specific applications in mind. Reach out to our in-house experts today to discuss which Hunter Industrial Fan best suits your facility’s needs. Call us at 1-844-591-3267 or visit our HVLS Fan Selection Tool."
+    }
+  },{
+    "@type": "Question",
+    "name": "What is the largest fan that you offer?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Our Titan and ECO HVLS fans are both offered in a 24ft. diameter. With the most fan blades Titan covers the largest square footage."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do your fans come with a warranty?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Hunter Industrial offers an industry leading Limited Lifetime Warranty on our Titan, ECO, and XP HVLS fans. For more information, please call our Hunter Technical Support Team 1-844-591-3267."
+    }
+  },{
+    "@type": "Question",
+    "name": "What is the maximum allowed distance for cabling between fans, or between the fan and the digital wall controller?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "For Ethernet copper cabling when used for 10/100/1000BASE-T, the maximum allowed length of a Cat 5e / Cat 6 cable is 100 meters. For distances over 100 meters, a signal extender may be necessary. Please consult the Hunter Technical Support Team for assistance in including an extender."
+    }
+  },{
+    "@type": "Question",
+    "name": "What happens if I have to make a run longer than 300ft with my ethernet cable?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "At Hunter Industrial Fan we understand that this can happen, and we offer ethernet extenders. Your sales professional can assist you with including an ethernet extender in your purchase order."
+    }
+  },{
+    "@type": "Question",
+    "name": "How do I integrate into a fire relay panel?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Hunter Industrial offers a fire relay integration. Speak with your sales professional today about including a fire relay integration with your purchase order."
+    }
+  }]
+}
+</script>

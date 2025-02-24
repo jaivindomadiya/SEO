@@ -1,0 +1,10 @@
+Create One file for Schema Code and place all code in file
+
+1) Generate Local business Schema 
+https://www.marleyfans.in/
+
+2) Generate Product Schema 
+https://www.marleyfans.in/hvls-fans
+
+3) Create FAQ Schema 
+https://industrialfans.hunterfan.com/pages/hunter-faq
