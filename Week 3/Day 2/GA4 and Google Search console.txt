@@ -1,0 +1,23 @@
+Google analytics Code :
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V41WN4JT5Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-V41WN4JT5Z');
+</script>
+
+----------
+Google Search console code : 
+
+<meta name="google-site-verification" content="UrlHfWXEtmmIUEkOI6adphjxuzsvLgXaAT8icLF0dec" />
+
+
+
+for add this code in our website what we do ?:
+Go to admin pannel -> apperience -> Theme file editor
+-> theme header /theme files(header.php)
+go to head section and past this code okay
