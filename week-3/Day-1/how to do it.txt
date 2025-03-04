@@ -3,3 +3,5 @@ https://technicalseo.com/tools/schema-markup-generator/
 
 For check Validation of Schema : 
 https://validator.schema.org/
+
+after generating schema give to developer and fit in head tag
