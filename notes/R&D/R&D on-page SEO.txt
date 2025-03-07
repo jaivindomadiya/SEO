@@ -1,0 +1,80 @@
+Keyword Resarch : 
+
+1)"google Trends" -> for compare two keywords and see which keyword is best for me
+
+2) "keyword.io" -> for long tail keyword
+
+3) keyword volume and keyword difficulty
+
+---------
+content optimization
+
+1) Keyword density :
+   means number of keyword appears in your    perticular Peace of content
+
+ -  3% keyword density maintain karvi jaruri chhe 
+ -  if content is 1000 word than 30 keyword is okay
+ - do not do keyword stuffing
+
+2) plegerism rate (check content duplicacy) 
+ - many free plegerism tools are availble for this
+   not above 5% okay 5 to 10% is okay
+ 
+--------
+ keyword prominance & proximity
+  <meta title >
+  <description>
+  < head tag> 
+  <url>
+  <alt tag>
+  in every important part ma aapdo keyword aavvo joi a..
+
+proximity :
+distance between two or more keyword
+----------
+ 
+keyword cammibalization:
+
+every page ka same keyword (search engine is confuse in this)
+
+--------------------------------
+-----------------------------------
+
+meta title: 
+ - title of our webpage  
+ - length 50 to 60 characters
+ - focus of primary keyword 
+ - appear on SERP
+
+
+meta descriptoion
+  - summary of our webpage
+-url tag
+-header tag H1 to H6 tag "atleast most important primary keyword available in heading tag"
+- url is easy to read , avoid use any specific characters
+- internal, external(one website to another website link) and anchor tag
+
+ 
+--------------
+--------------
+Url canonicalization
+
+---
+-----
+image optimization
+
+make image optimize and make understandable to the searchengine
+<alt tag> keyword should come on this alt tag
+- image title or description
+- and make sure your keyword will come on this title and description please
+
+--------------
+-------------
+social media icon
+-----
+---
+Page speed 
+optimize webpage speed
+
+core webital  -> LCP, FID, CLS
+(it is a part of Technical SEO)
